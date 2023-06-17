@@ -1,2 +1,2 @@
-# CodeClause_Personal_Portfolio_Website
-CodeClause I develop my Personal Portfolio Website Using HTML CSS JAVASCRIPT
+mini_Portfolio_Website
+ I develop my miniPortfolio Website Using HTML CSS JAVASCRIPT
